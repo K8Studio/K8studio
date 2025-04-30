@@ -93,12 +93,9 @@ Directly access logs or SSH into pods and nodes with a built-in terminal. No nee
 ---
 
 ## 💬 Join the K8Studio Community
-Need help or want to connect? Join our [Slack Channel](#) to chat with the team and other Kubernetes professionals.
+Need help or want to connect? Join our [Slack Channel](https://k8studio.slack.com/join/shared_invite/enQtNjgxMDU1NzkzMDc0LWM0ZTc3MjU5ZGIzN2MxMDhkOGFjOGNjYmU1YzI3YzRmMjUzNmU5ZjMxZTVlODMwZDY3ODY1NjhlM2NhYjVlODQ) to chat with the team and other Kubernetes professionals.
 
-## 🎥 See K8Studio V3 in Action  
-Check out our [YouTube Channel](#) for demos, walkthroughs, and tutorials on all the latest features.
-
-👉 Visit [k8studio.io](#) to get started with V3 today!
+👉 Visit [k8studio.io](https://k8studio.io/) to get started with V3 today!
 
 
 
