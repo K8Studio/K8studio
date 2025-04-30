@@ -61,9 +61,6 @@ Explore your infrastructure with a data-first interface. Grid View provides deta
 
 ![screencast](https://github.com/K8Studio/K8studio/blob/main/v3-grid.png)
 
-### 🧰 Toolbox
-Drag and drop Kubernetes objects from the Toolbox into your workspace. Each object type—Workloads, Networking, Storage, and Security—comes with a ready-to-edit YAML template, saving you time and reducing errors.
-
 ### ✏️ Quick Editor
 Update objects faster with the **Quick Editor**, a smart, schema-aware interface that validates YAML, offers suggestions, and explains configuration fields. Includes built-in helpers for:
 - **Docker Images**
