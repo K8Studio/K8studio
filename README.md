@@ -7,7 +7,7 @@
 Now featuring a **multi-window interface**, advanced logging, AI assistance, and a brand-new **K8Studio Visualizer**, V3 is the ultimate toolbox for Kubernetes professionals.
 
 For more info visit our website [k8studio](https://k8studio.io)
-To watch a demo take a look at [our youtube channel](https://www.youtube.com/channel/UC84bcmR2JVP8MBeLEjXxHIA) that shows how to use the component.
+To watch a demo take a look at [our youtube channel](https://youtu.be/BvAemIubm-o) that shows how to use the component.
 
 
 ## Join K8Studio Community
@@ -34,13 +34,18 @@ Ask questions, generate YAML, resolve errors, or get best-practice guidance—al
 
 ### 📊 Overview Panel
 The all-new **Cluster Overview Page** gives you a real-time summary of key metrics like **CPU**, **memory**, and **pod usage**. View resource requests, limits, and actual consumption at a glance to monitor cluster health and performance.
-![screencast](https://github.com/guiqui/k8Studio/blob/master/v3-overview.png)
+
+![screencast](https://github.com/K8Studio/K8studio/blob/main/v3-overview.png)
 
 ### 🔐 Permissions View
 Quickly view all **roles and permissions** assigned to your user within a cluster. Gain visibility into what you can access, troubleshoot permission issues, and collaborate securely.
 
+![screencast](https://github.com/K8Studio/K8studio/blob/main/v3-permissions.png)
+
 ### 📄 Advanced Logs
 The new **Advanced Logs** feature allows you to view logs across **Deployments or multi-container Pods** in a consolidated, structured format. Easily switch between containers or view logs from all replicas. Logs are color-coded and auto-streamed for better debugging and clarity.
+
+![screencast](https://github.com/K8Studio/K8studio/blob/main/v3-logs.png)
 
 ---
 
@@ -49,10 +54,12 @@ The new **Advanced Logs** feature allows you to view logs across **Deployments o
 ### 🌐 K8Studio Visualizer (Previously Deployment View)
 The upgraded **Visualizer** delivers an interactive, real-time map of your deployments, services, pods, and network relationships. Edit configurations directly from the UI. View rollouts, status changes, versions, and rollbacks—no CLI required.
 
-![screencast](https://github.com/guiqui/k8Studio/blob/master/v3-visualizer.png)
+![screencast](https://github.com/K8Studio/K8studio/blob/main/v3-visualizer.png)
 
 ### 🧮 Grid View
 Explore your infrastructure with a data-first interface. Grid View provides detailed insights for performance tuning, auditing, and operational decision-making.
+
+![screencast](https://github.com/K8Studio/K8studio/blob/main/v3-grid.png)
 
 ### 🧰 Toolbox
 Drag and drop Kubernetes objects from the Toolbox into your workspace. Each object type—Workloads, Networking, Storage, and Security—comes with a ready-to-edit YAML template, saving you time and reducing errors.
@@ -77,6 +84,8 @@ Take control of access with the RBAC Manager. Create and manage **users, groups,
 
 ### ⛵ Helm Manager
 Simplify Helm chart and release management. Install, monitor, and update Helm charts with a clear, structured UI.
+
+![screencast](https://github.com/K8Studio/K8studio/blob/main/v3-helm.png)
 
 ### 🔍 Filter and Search
 Quickly locate any object using the global search bar. Search by name, label, or image, and use advanced filters to limit by namespace or object type.
