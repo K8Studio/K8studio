@@ -21,7 +21,7 @@ You can join our
 
 
 ### 🧭 Multicluster Workspace with Multi-Window Support
-With K8Studio V3, you can now open and manage **multiple clusters simultaneously**. Thanks to the new **Multi-Window Docking Layout Manager**, you can open as many tabs as needed—across any cluster—and fully customize your workspace. Arrange views side by side, float windows, or stack them in tabs to **monitor and work with multiple clusters in parallel**, all within a single, unified interface.
+With K8Studio V3, you can now open and manage **multiple clusters simultaneously**. Thanks to the new **Multi-Window Docking Layout Manager**, you can open as many tabs as needed—across any cluster—and fully customize your workspace. Arrange views side by side, or stack them in tabs to **monitor and work with multiple clusters in parallel**, all within a single, unified interface.
 
 ### 🗂️ Customizable Docking Layout
 Our powerful Docking Layout Manager gives you full control over your workspace. Open multiple windows, drag and drop views, and organize panels to match your workflow. Build the perfect multi-cluster dashboard with ease.
