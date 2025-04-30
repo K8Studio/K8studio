@@ -90,9 +90,6 @@ Quickly locate any object using the global search bar. Search by name, label, or
 ### 💻 SSH & Logs
 Directly access logs or SSH into pods and nodes with a built-in terminal. No need for external tools or remembering IPs and commands.
 
-### 📤 Export & Documentation
-Export individual resources as YAML, dump full cluster configurations by namespace, or generate visual diagrams as **SVG** or **HTML**—ideal for audits, documentation, or collaboration.
-
 ---
 
 ## 💬 Join the K8Studio Community
