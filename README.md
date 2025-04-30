@@ -34,6 +34,7 @@ Ask questions, generate YAML, resolve errors, or get best-practice guidance—al
 
 ### 📊 Overview Panel
 The all-new **Cluster Overview Page** gives you a real-time summary of key metrics like **CPU**, **memory**, and **pod usage**. View resource requests, limits, and actual consumption at a glance to monitor cluster health and performance.
+![screencast](https://github.com/guiqui/k8Studio/blob/master/v3-overview.png)
 
 ### 🔐 Permissions View
 Quickly view all **roles and permissions** assigned to your user within a cluster. Gain visibility into what you can access, troubleshoot permission issues, and collaborate securely.
@@ -47,6 +48,8 @@ The new **Advanced Logs** feature allows you to view logs across **Deployments o
 
 ### 🌐 K8Studio Visualizer (Previously Deployment View)
 The upgraded **Visualizer** delivers an interactive, real-time map of your deployments, services, pods, and network relationships. Edit configurations directly from the UI. View rollouts, status changes, versions, and rollbacks—no CLI required.
+
+![screencast](https://github.com/guiqui/k8Studio/blob/master/v3-visualizer.png)
 
 ### 🧮 Grid View
 Explore your infrastructure with a data-first interface. Grid View provides detailed insights for performance tuning, auditing, and operational decision-making.
