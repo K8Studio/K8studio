@@ -92,6 +92,8 @@ Simplify Helm chart and release management. Install, monitor, and update Helm ch
 ### 🔍 Filter and Search
 Quickly locate any object using the global search bar. Search by name, label, or image, and use advanced filters to limit by namespace or object type.
 
+![screencast](https://github.com/K8Studio/K8studio/blob/main/v3-search.png)
+
 ### 💻 SSH & Logs
 Directly access logs or SSH into pods and nodes with a built-in terminal. No need for external tools or remembering IPs and commands.
 
