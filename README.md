@@ -70,11 +70,19 @@ Update objects faster with the **Quick Editor**, a smart, schema-aware interface
 
 The **Property Editor** allows you to see an overview of the object with all relevant data, events, and health information. It enables you to create, update, or delete objects using the YAML editor, and also provides insights into security, logs, and metrics.
 
+![screencast](https://github.com/K8Studio/K8studio/blob/main/v3-ed-overview.png)
+![screencast](https://github.com/K8Studio/K8studio/blob/main/v3-ed-yml.png)
+![screencast](https://github.com/K8Studio/K8studio/blob/main/v3-ed-logs.png)
+![screencast](https://github.com/K8Studio/K8studio/blob/main/v3-ed-security.png)
+![screencast](https://github.com/K8Studio/K8studio/blob/main/v3-ed-yml.png)
+
 ### ⚙️ Configuration Manager
 Manage **ConfigMaps** and **Secrets** from a unified interface. Easily create, edit, and delete key-value pairs. Built-in **Base64 encoding/decoding** makes working with secrets seamless.
 
 ### 🔐 RBAC Manager
 Take control of access with the RBAC Manager. Create and manage **users, groups, roles**, and **service accounts** with a visual, intuitive interface.
+
+![screencast](https://github.com/K8Studio/K8studio/blob/main/v3-rbac.png)
 
 ### ⛵ Helm Manager
 Simplify Helm chart and release management. Install, monitor, and update Helm charts with a clear, structured UI.
