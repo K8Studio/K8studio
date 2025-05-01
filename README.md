@@ -23,14 +23,18 @@ You can join our
 ### 🧭 Multicluster Workspace with Multi-Window Support
 With K8Studio V3, you can now open and manage **multiple clusters simultaneously**. Thanks to the new **Multi-Window Docking Layout Manager**, you can open as many tabs as needed—across any cluster—and fully customize your workspace. Arrange views side by side, or stack them in tabs to **monitor and work with multiple clusters in parallel**, all within a single, unified interface.
 
+
+
 ### 🗂️ Customizable Docking Layout
 Our powerful Docking Layout Manager gives you full control over your workspace. Open multiple windows, drag and drop views, and organize panels to match your workflow. Build the perfect multi-cluster dashboard with ease.
+![screencast](https://github.com/K8Studio/K8studio/blob/main/v3-multilayout.png)
 
 ### 🤖 AI Copilot – Context-Aware Kubernetes Assistant
 K8Studio V3 now includes an integrated **AI Copilot**, designed to assist you intelligently based on your current selection and workspace context. Whether you're editing YAML, reviewing logs, or troubleshooting a deployment, Copilot gathers relevant data—like object definitions, logs, and configuration files—to provide targeted help.
 
 Ask questions, generate YAML, resolve errors, or get best-practice guidance—all powered by a Kubernetes-aware AI assistant that works inside the application.
 
+![screencast](https://github.com/K8Studio/K8studio/blob/main/v3-copilot.png)
 
 ### 📊 Overview Panel
 The all-new **Cluster Overview Page** gives you a real-time summary of key metrics like **CPU**, **memory**, and **pod usage**. View resource requests, limits, and actual consumption at a glance to monitor cluster health and performance.
@@ -61,17 +65,10 @@ Explore your infrastructure with a data-first interface. Grid View provides deta
 
 ![screencast](https://github.com/K8Studio/K8studio/blob/main/v3-grid.png)
 
-### ✏️ Quick Editor
+### ✏️ Object Properties  
 Update objects faster with the **Quick Editor**, a smart, schema-aware interface that validates YAML, offers suggestions, and explains configuration fields. Includes built-in helpers for:
-- **Docker Images**
-- **Labels**
-- **Volumes**
-- **RBAC Roles**
-- **Secrets**
-- **ConfigMaps**
 
-### 📝 YAML Editor
-For advanced users, the **YAML Editor** features syntax highlighting, keyword auto-completion, and live validation. Any change you make is reflected across the interface and synced with the cluster.
+The **Property Editor** allows you to see an overview of the object with all relevant data, events, and health information. It enables you to create, update, or delete objects using the YAML editor, and also provides insights into security, logs, and metrics.
 
 ### ⚙️ Configuration Manager
 Manage **ConfigMaps** and **Secrets** from a unified interface. Easily create, edit, and delete key-value pairs. Built-in **Base64 encoding/decoding** makes working with secrets seamless.
